@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>[% title %]</title>
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+[% content %]
+
+<hr />
+
+<small>Patches to <a href="https://github.com/davel/lbw2014holdingpage">https://github.com/davel/lbw2014holdingpage</a> please.
+
+</div>
+
+</body>
+
+</html>
+

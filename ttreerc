@@ -11,3 +11,5 @@ recurse
 
 # provide info about what's going on
 verbose
+
+lib = lib/

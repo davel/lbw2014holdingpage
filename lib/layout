@@ -18,8 +18,11 @@
 [% content %]
 
 <hr />
-
-<small lang="en">Patches to this site are very welcome.  Please send them to
+<p lang="en">
+<small>If you have any useful information which I can add to this
+page I would be grateful if you could email it to
+<a href="mailto:lbw2014@xn--vdaa.be">lbw2014@&thorn;&thorn;.be</a>.
+Patches to this site are also welcome.  The source may be found at
 <a href="https://github.com/davel/lbw2014holdingpage">https://github.com/davel/lbw2014holdingpage</a>.</small>
 
 </div>

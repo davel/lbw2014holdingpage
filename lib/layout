@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="[% lang %]">
 <head>
 <title>[% title %]</title>
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 <link href="favicon.ico" rel="shortcut icon" />
+[% IF lang == "en" %]
+<link href="index.cy.html" rel="alternate" hreflang="cy" type="text/html" />
+[% ELSE %]
+<link href="index.html" rel="alternate" hreflang="cy" type="text/html" />
+[% END %]
 </head>
 
 <body>

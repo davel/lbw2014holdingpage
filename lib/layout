@@ -7,7 +7,7 @@
 [% IF lang == "en" %]
 <link href="index.cy.html" rel="alternate" hreflang="cy" type="text/html" />
 [% ELSE %]
-<link href="index.html" rel="alternate" hreflang="cy" type="text/html" />
+<link href="index.html" rel="alternate" hreflang="en" type="text/html" />
 [% END %]
 </head>
 

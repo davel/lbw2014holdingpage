@@ -4,7 +4,7 @@ ignore = ^#
 ignore = ~$
 
 # copy these files
-copy   = \.(gif|png|jpg|pdf|JPG)$
+copy   = \.(gif|png|jpg|pdf|JPG|eot|svg|ttf|woff)$
 
 # recurse into directories
 recurse

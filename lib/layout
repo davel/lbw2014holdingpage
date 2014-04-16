@@ -17,6 +17,7 @@ body { font-family: "Computer Modern Serif", sans-serif; font-size: 14pt; font-w
 h1 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
 h2 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
 h3 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
+p { text-align: justify; }
 </style>
 </head>
 

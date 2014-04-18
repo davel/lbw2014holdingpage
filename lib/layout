@@ -14,7 +14,7 @@
 [% END %]
 
 <style type="text/css">
-body { font-family: "Computer Modern Serif", sans-serif; font-size: 14pt; font-weight: normal; }
+body { font-family: "Computer Modern Serif", sans-serif; font-size: 13pt; font-weight: normal; }
 h1 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
 h2 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
 h3 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }

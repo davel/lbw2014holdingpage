@@ -34,7 +34,7 @@ p { text-align: justify; }
 page I would be grateful if you could email it to
 <a href="mailto:lbw2014@xn--vdaa.be">lbw2014@&thorn;&thorn;.be</a>.
 Patches to this site, styling or content, are also welcome, whether via github or via
-<code>git-email-format</code>.  The source may be found at
+<code>git-format-patch</code>.  The source may be found at
 <a href="https://github.com/davel/lbw2014holdingpage">https://github.com/davel/lbw2014holdingpage</a>.</small>
 
 </div>

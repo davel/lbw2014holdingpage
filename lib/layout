@@ -50,6 +50,16 @@ body {
 [% IF cover %]
 [% content %]
 [% ELSE %]
+[%
+    pages = [
+        [ "Home", "index.html" ],
+        [ "Information", "more.html" ],
+        [ "Travel", "travel.html" ],
+        [ "Accomodation", "accomodation.html" ],
+        [ "New attendees", "new.html" ],
+        [ "Register", "http://lbw.draiocht.net/registration/2/" ],
+    ]
+%]
 <div class="page-header">
 <h1>[% title %]</h1>
 </div>
@@ -57,8 +67,9 @@ body {
 <div class="row">
 <div class="col-md-2">
 <div class="list-group">
-<a href="index.html" class="list-group-item">Summary in English</a>
-<a href="lbw.draiocht.net/registration/2/" class="list-group-item">Registration site</a>
+[% FOREACH p IN pages %]
+<a href="[% p.1 %]" class="list-group-item">[% p.0 %]</a>
+[% END %]
 </div>
 </div>
 

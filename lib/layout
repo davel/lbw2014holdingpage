@@ -61,8 +61,6 @@ body {
         [ "Contact", "contact.html" ],
     ]
 %]
-<div class="page-header">
-<h1>[% title %]</h1>
 <div class="navbar navbar-default navbar-static-top" role="navigation">
 <ul class="nav navbar-nav">
 [% FOREACH p IN pages %]
@@ -70,6 +68,8 @@ body {
 [% END %]
 </ul>
 </div>
+<div class="page-header">
+<h1>[% title %]</h1>
 </div>
 
 <div class="col-md-12">

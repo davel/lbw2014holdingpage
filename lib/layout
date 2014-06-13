@@ -58,6 +58,7 @@ body {
         [ "Accomodation", "accomodation.html" ],
         [ "New attendees", "new.html" ],
         [ "Register", "http://lbw.draiocht.net/registration/2/" ],
+        [ "Contact", "contact.html" ],
     ]
 %]
 <div class="page-header">

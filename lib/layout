@@ -57,7 +57,7 @@ body {
         [ "Travel", "travel.html" ],
         [ "Accomodation", "accomodation.html" ],
         [ "New attendees", "new.html" ],
-        [ "Register", "http://lbw.draiocht.net/registration/2/" ],
+        [ "Activities", "activities.html" ],
         [ "Contact", "contact.html" ],
     ]
 %]

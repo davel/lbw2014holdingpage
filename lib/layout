@@ -88,7 +88,7 @@ Patches to this site, styling or content, are also welcome, whether via github o
 [% END %]
 </div>
 
-<script src="jquery.js" type="application/javascript"></script>
+<script src="jquery-1.11.1.min.js" type="application/javascript"></script>
 <script src="bootstrap/js/bootstrap.min.js" type="application/javascript"></script>
 
 </body>

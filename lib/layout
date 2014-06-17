@@ -31,6 +31,19 @@ body {
     background-position: center center;
     background-attachment: fixed;
 }
+
+div.cover_bottom {
+    color: #ffffff;
+    text-shadow: 1px 1px #000000;
+}
+
+@media all and (min-width: 992px) {
+    div.cover_bottom {
+        position: absolute;
+        bottom: 60px;
+    }
+}
+
 [% END %]
 </style>
 

@@ -25,6 +25,11 @@ h3 { font-family: "Computer Modern Concrete", serif; font-weight: bold; }
 p { text-align: justify; }
 
 [% IF cover %]
+
+body {
+    background-color: #888888;
+}
+
 body {
     background: url(IMG_6604cover.JPG);
     background-size: cover;

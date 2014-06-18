@@ -27,6 +27,10 @@ p { text-align: justify; }
 [% IF cover %]
 
 body {
+    background: linear-gradient(to top, #000000, #ffffff);
+}
+
+body {
     background: url(IMG_6604cover720.jpg), linear-gradient(to top, #000000, #ffffff);
     background-size: cover;
     background-position: center center;

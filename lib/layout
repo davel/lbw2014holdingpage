@@ -27,14 +27,22 @@ p { text-align: justify; }
 [% IF cover %]
 
 body {
-    background-color: #888888;
-}
-
-body {
-    background: url(IMG_6604cover.JPG);
+    background: url(IMG_6604cover720.JPG), linear-gradient(to top, #000000, #ffffff);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+}
+
+@media all and (min-width: 721px) {
+    body {
+        background: url(IMG_6604cover1920.JPG), linear-gradient(to top, #000000, #ffffff);
+    }
+}
+
+@media all and (min-width: 1921px) {
+    body {
+        background: url(IMG_6604cover3140.JPG), linear-gradient(to top, #000000, #ffffff);
+    }
 }
 
 div.cover_bottom {

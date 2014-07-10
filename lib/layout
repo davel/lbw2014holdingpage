@@ -90,6 +90,7 @@ div.cover_bottom {
     pages = [
         [ "Home", "index.html" ],
         [ "Information", "more.html" ],
+        [ "T-shirts", "shirt.html" ],
         [ "Travel", "travel.html" ],
         [ "Accomodation", "accomodation.html" ],
         [ "New attendees", "new.html" ],
